@@ -17,7 +17,9 @@
 </h4>
 
 ### Objetivo
-<p id="objetivo">Treina os conhecimentos em react, aprender mais sobre o node, bem como utilizar React Aliado ao Firebase para criar uma aplicação simples.<p/>
+<p id="objetivo">Treina os conhecimentos em react, aprender mais sobre o node, bem como utilizar React Aliado ao Firebase para criar uma aplicação simples.
+<br />
+Fiz de forma a simular parte da interface do facebook, com algumas funcionalidades aliadas a um banco de dados simples do firebase.<p/>
 
 ### Pré-requisitos
 
@@ -37,7 +39,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ### Features
 
-- [x] Cadastro de usuário
-- [x] Login de Usuário
 - [x] Postagem de imagem
+- [x] Texto de postagem
 - [x] Comentários na postagem
+- [x] Mostragem de stories
