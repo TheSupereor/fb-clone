@@ -43,3 +43,5 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 - [x] Texto de postagem
 - [x] Comentários na postagem
 - [x] Mostragem de stories
+
+#Feito através de tutoriais da Danki Code#
